@@ -1,2 +1,2 @@
-I finished my C md5 cracker finally, it's pretty fast but not comparable to that uses the GPU or those made in some scripting language.
-It uses a not casual brute force and takes three command line arguments: <hash> <starting string> <first letter><last letter>
+A MD5 crack programma intrelly written in C. It is pretty fast but it is not omptimized for GPUs.
+It uses a non-casual brute force and it takes three command line arguments: <hash> <starting string> <first letter><last letter>
